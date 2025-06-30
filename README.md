@@ -44,6 +44,8 @@ Solution for merging LoRA models, integrating LoRA into checkpoints, and blendin
 
 ## 4. ⭐ A collection of my favorite Loras
 
+[latent-consistency/lcm-sdxl](https://huggingface.co/latent-consistency/lcm-sdxl)
+
 [Popyay's Epic Fantasy Style](https://civitai.com/models/470073?modelVersionId=560995)
 
 [Zavy's Chromatic Blur - SDXL](https://civitai.com/models/385965/zavys-chromatic-blur-sdxl)
