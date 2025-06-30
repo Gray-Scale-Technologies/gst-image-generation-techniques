@@ -42,7 +42,7 @@ This guide will show you how to merge LoRAs using the set_adapters() and add_wei
 
 Solution for merging LoRA models, integrating LoRA into checkpoints, and blending Flux And Stable Diffusion models (SD1.5, SD2, SD3, SDXL). Optimize your AI workflows with ease.
 
-## 4. ⭐ A collection of my favorite Loras
+## 4. ⭐ A collection of my favorite finetunes
 
 [latent-consistency/lcm-sdxl](https://huggingface.co/latent-consistency/lcm-sdxl)
 
