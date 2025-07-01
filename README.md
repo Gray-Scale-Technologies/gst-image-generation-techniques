@@ -96,5 +96,6 @@ Solution for merging LoRA models, integrating LoRA into checkpoints, and blendin
 
 [COMFYUI WORKFLOWS](https://www.runcomfy.com/comfyui-nodes/ComfyUI/k-sampler-advanced)
 
-https://github.com/rgthree/rgthree-comfy
-https://github.com/shockz0rz/comfy-easy-grids
+[rgthree-comfy](https://github.com/rgthree/rgthree-comfy)
+
+[comfy-easy-grids](https://github.com/shockz0rz/comfy-easy-grids)
