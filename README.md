@@ -99,3 +99,7 @@ Solution for merging LoRA models, integrating LoRA into checkpoints, and blendin
 [rgthree-comfy](https://github.com/rgthree/rgthree-comfy)
 
 [comfy-easy-grids](https://github.com/shockz0rz/comfy-easy-grids)
+
+[QR CODE MONSTER](https://civitai.com/articles/5773/comfyui-hidden-faces-and-text-by-thinkdiffusion)
+
+[QR MONSTER HF](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster)
