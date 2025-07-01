@@ -28,7 +28,7 @@ NF4 requires roughly 15GB VRAM
 
 ## 2. 📝 Image to Text Annotation
 
-Image to text or text to image annotation can be done in a variety of ways, and can be optimized with automations, but none of these beat out good old human annotations. Fluxgym above offers a built in annotation system using the google florence image to text vision model. Below you will find my image annotation ui that i built which is a little more capable than fluxgym in that it allows you to export and import your datasets easily, and offers automatic annotation with ollama gemma3:4b vision which can be improved by modifying the system prompt and finetuning a gemma3:4b vision lora with unsloth.
+Image to text or text to image annotation can be done in a variety of ways, and can be optimized with automations, but none of these beat out good old human annotations. Fluxgym and Onetrainer above offer built in annotation systems using the google florence image to text vision model for fluxgym and I will update this when I find what vision model onetrainer uses. Below you will find my image annotation ui that i built which is a little more capable than fluxgym in that it allows you to export and import your datasets easily, and offers automatic annotation with ollama gemma3:4b vision which can be improved by modifying the system prompt and finetuning a gemma3:4b vision lora with unsloth.
 
 [oarc-image-annotation-ui](https://github.com/Ollama-Agent-Roll-Cage/oarc-image-annotation-ui)
 
